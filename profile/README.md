@@ -6,7 +6,21 @@
 
 Draper does the work of building your business — designed so one person can operate like ten.
 
-[**Get started, free →**](https://app.draper.chat/auth/google) &nbsp;·&nbsp; [Website](https://draper.chat) &nbsp;·&nbsp; [Pricing](https://draper.chat/pricing) &nbsp;·&nbsp; [Blog](https://draper.chat/blog) &nbsp;·&nbsp; [Guides](https://draper.chat/guides)
+<a href="https://app.draper.chat/auth/google">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/btn-get-started-dark.svg" />
+    <img src="assets/btn-get-started-light.svg" alt="Get started, free" height="46" />
+  </picture>
+</a>
+&nbsp;
+<a href="#how-it-works">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/btn-how-dark.svg" />
+    <img src="assets/btn-how-light.svg" alt="See how it works" height="46" />
+  </picture>
+</a>
+
+<sub>[Website](https://draper.chat) &nbsp;·&nbsp; [Pricing](https://draper.chat/pricing) &nbsp;·&nbsp; [Blog](https://draper.chat/blog) &nbsp;·&nbsp; [Guides](https://draper.chat/guides)</sub>
 
 <br />
 
@@ -62,7 +76,12 @@ Draper works sequentially through three stages, doing the heavy lifting at each 
 
 <div align="center">
 
-[**Start free →**](https://app.draper.chat/auth/google)
+<a href="https://app.draper.chat/auth/google">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/btn-start-free-dark.svg" />
+    <img src="assets/btn-start-free-light.svg" alt="Start free" height="46" />
+  </picture>
+</a>
 
 </div>
 
