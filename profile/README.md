@@ -70,9 +70,9 @@ Draper works sequentially through three stages, doing the heavy lifting at each 
 - It's built for product businesses — apps, physical goods, and websites.
 - Your ideas stay confidential.
 
-## Pricing
+## Get started
 
-**$29/month** — first two workshops free, and a free trial to get started.
+Try Draper with a free trial — no idea required to begin.
 
 <div align="center">
 
